@@ -4,20 +4,20 @@ Explore 2 dataset that given then finding descriptive statistics and summary res
 ### Answer
 
 1.) From survey, most students use left hand writing.
-```{R}
-Code here
-```
+ค่าเฉลี่ยน้ำหนักตัวแมว
+ค่ากลางของอัตราการเต้นหัวใจแมว
+ค่าน้ำหนักของแมวที่มากที่สุด
+ค่าการเต้นของหัวใจแมวที่น้อยที่สุด
+จำนวนเปรียบเทียบเพศแมว
 
 2.) Descriptive statistics Statement
-```{R}
-Code here
-```
+mean(cats$Bwt) 2.723611
+median(cats$Hwt) 10.1
+max(cats$Bwt) 3.9
+min(cats$Hwt) 6.3
+factor(cats$Sex) Levels: F M
 
 
-### Team: xxxxxxx
+### Team:037 xxxxxxx
 
-1. ชื่อ นามสกุล     StudentID: 63130500xxx
-2. ชื่อ นามสกุล     StudentID: 63130500xxx
-3. ชื่อ นามสกุล     StudentID: 63130500xxx
-4. ชื่อ นามสกุล     StudentID: 63130500xxx
-5. ชื่อ นามสกุล     StudentID: 63130500xxx
+1. ชื่อ ณัฐวุฒิ นามสกุล ฐิตธรรพันธุ์     StudentID: 61130500123
