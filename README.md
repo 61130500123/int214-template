@@ -1,4 +1,4 @@
-# GroupID-Datasetname
+# Group037_???
 
 Original Datasets from: [safe-sit23 github](https://github.com/safesit23/INT214-Statistics/blob/main/datasets/products_original.csv)
 
@@ -44,13 +44,7 @@ E.g. กลุ่มของเราเลือกชุดข้อมูล
 
 ### Team: name of team
 
-1. ชื่อ นามสกุล StudentID: 63130500xxx
-2. ชื่อ นามสกุล StudentID: 63130500xxx
-3. ชื่อ นามสกุล StudentID: 63130500xxx
-4. ชื่อ นามสกุล StudentID: 63130500xxx
-5. ชื่อ นามสกุล StudentID: 63130500xxx
-
-### Instructor
+1. ชื่อ ณัฐวุฒิ นามสกุล ฐิตธรรมพันธุ์ StudentID: 61130500123
 
 - ATCHARA TRAN-U-RAIKUL
 - JATAWAT XIE (Git: [safesit23](https://github.com/safesit23))
